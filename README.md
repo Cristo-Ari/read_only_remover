@@ -1,1 +1,1 @@
-![screenshot](Без имени-1.png)
+![screenshot](1.png)
